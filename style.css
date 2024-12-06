@@ -1,0 +1,35 @@
+h1{
+	color: green;
+}
+p{
+	text-indent: 50px;
+}
+a:link{
+	color: red;
+}
+a:visted{
+	color: green;
+}
+a:hover{
+	color:purple;
+}
+a:active{
+	color: black;
+}
+
+
+.div1{
+	overflow: scroll;
+	background-color: lightgreen;
+	width: 200px;
+	height: 200px;
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+}
+th,td{
+	text-align: left;
+	padding: 10px;
+}
+tr:nth-child(even) {background-color: #eae2e2;}
